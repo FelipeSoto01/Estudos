@@ -7,5 +7,5 @@ let operacoes = function  (x, y) {
             soma, sub, mult, div
         }
 }
-console.log(operacoes(45, 55))
+console.log(operacoes(1, 2))
 
