@@ -8,4 +8,3 @@ function pessoa(nome) {
 let p1 = new pessoa('Joao')
 p1.falar()
 
-console.log(typeof typeof 1)
